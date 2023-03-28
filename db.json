@@ -69,6 +69,27 @@
       "description": "hhh",
       "price": "100.99",
       "id": 10
+    },
+    {
+      "name": "Galaxy Z Fold 4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvp8kxotKXosxWdxVL6Y4wbFbdyUlWu5f5g&usqp=CAU",
+      "description": "Newest Samsung fold phone in the market.",
+      "price": "854.99",
+      "id": 11
+    },
+    {
+      "name": "fold 4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0KI1gfl84bC3wMeOkYh9MKBSQbkvEbNJ8PQ&usqp=CAU",
+      "description": "shfukh vwev evev wvvw",
+      "price": "99.99",
+      "id": 12
+    },
+    {
+      "name": "sdfghjkl;",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIEAwgMBEQACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAACAwQFAAEGB//EAEMQAAIBAwICBwQIBQEGBwAAAAECAwAEERIhBTEGEyJBUWFxFDKBkSMzQlKhscHRFTRykvCiU1RigtLhBxZDc4OUsv/EABoBAAMBAQEBAAAAAAAAAAAAAAABAgMEBQb/xAA1EQACAgEDAwICCQMFAQEAAAAAAQIRAxIhMQRBURMiYXEFFDJSgZGhsfBCwdEVIzPh8dI0/9oADAMBAAIRAxEAPwDzZRXpnjMYop2RTDApksMA00Sbw33QfjTFsEA55YX8aBWkGsbnm/4UUxOS8DVSmZth6KZNhhKdE6gglMVhBBQTqCEdArMMdAajBGKQtQDQHOQ5HpRRosm3BvqiB7xNFE6zOrP3qQajNHnRQWa0UDszTQFmaKQWZooCwSlBSYGgUh2VARTzFRR6GpjFjT7opUherNcMYqDuAqkkRKcnyxgFUZNjFHlTJbDC0yWwwp7vyoFYQQ+B+VFEtjFj9aqiHIML50E2Gq+P5UCfwCGmmTuYOrHJh86Qe42Sg8/SmFM1rH3X/tpD0/EzPgp+NAafiCQxO2PxoGqM0yd+flSC0ZpPfQJs1igDMUDszFILNYoAwrQOwdNIdlOsDfeNc1vye/6cfufqGIGH2qpP4mc8fiAQjP3t/UVdryc7xy+6MVG+8Pwqk/iZyhJf0jkXxIqtjnkpeByL6VRk2xypnupmbkGI/KglyDCA7bUybZhik+y4HqtA9S7o0YJiPrVHolFB6",
+      "description": "dfghj",
+      "price": "4567.90",
+      "id": 13
     }
   ]
 }
