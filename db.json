@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Product A",
+      "price": 29.99,
+      "image": "https://example.com/images/product-a.jpg"
+    },
+    {
+      "id": "002",
+      "name": "Product B",
+      "price": 49.99,
+      "image": "https://example.com/images/product-b.jpg"
+    },
+    {
+      "id": "003",
+      "name": "Product C",
+      "price": 79.99,
+      "image": "https://example.com/images/product-c.jpg"
+    }
+  ]
+}
