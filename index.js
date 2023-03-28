@@ -17,6 +17,10 @@ fetch("http://localhost:3000/products")
         <h3><b>${products.name}</b></h3>
         <h3>${products.description}</h3>
         <h3>${products.price}</h3>
+
+        <button>Delete<button>
+        <button>Edit<button>
+
         
       </div>
     `;
