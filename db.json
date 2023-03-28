@@ -1,0 +1,70 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "description": "Experience true wireless freedom with these earbuds. Enjoy clear and detailed sound with deep bass and superior noise isolation.",
+        "image": "https://example.com/images/wireless-earbuds.jpg",
+        "price": 49.99,
+        "stock": 25
+      },
+      {
+        "id": 2,
+        "name": "Smart Watch",
+        "description": "Stay connected and organized with this smart watch. Monitor your fitness, receive notifications, and control your music all from your wrist.",
+        "image": "https://example.com/images/smart-watch.jpg",
+        "price": 149.99,
+        "stock": 10
+      },
+      {
+        "id": 3,
+        "name": "Bluetooth Speaker",
+        "description": "Enjoy high-quality sound anywhere with this portable speaker. Connect wirelessly to your phone or tablet and listen to your favorite music on the go.",
+        "image": "https://example.com/images/bluetooth-speaker.jpg",
+        "price": 79.99,
+        "stock": 15
+      },
+      {
+        "id": 4,
+        "name": "Power Bank",
+        "description": "Never run out of battery again with this power bank. Charge your phone, tablet, or other devices on the go and stay connected all day long.",
+        "image": "https://example.com/images/power-bank.jpg",
+        "price": 29.99,
+        "stock": 20
+      },
+      {
+        "id": 5,
+        "name": "Wireless Charger",
+        "description": "Charge your phone without the hassle of cords with this wireless charger. Simply place your phone on the pad and enjoy fast and convenient charging.",
+        "image": "https://example.com/images/wireless-charger.jpg",
+        "price": 19.99,
+        "stock": 30
+      },
+      {
+        "id": 6,
+        "name": "Action Camera",
+        "description": "Capture all of life's adventures with this action camera. Take stunning photos and videos of your outdoor activities and relive them again and again.",
+        "image": "https://example.com/images/action-camera.jpg",
+        "price": 99.99,
+        "stock": 8
+      },
+      {
+        "id": 7,
+        "name": "Gaming Mouse",
+        "description": "Take your gaming to the next level with this high-performance mouse. Enjoy fast and precise movement, customizable buttons, and ergonomic design.",
+        "image": "https://example.com/images/gaming-mouse.jpg",
+        "price": 49.99,
+        "stock": 12
+      },
+      {
+        "id": 8,
+        "name": "Fitness Tracker",
+        "description": "Monitor your health and fitness with this smart tracker. Track your steps, calories burned, and sleep patterns and get motivated to reach your goals.",
+        "image": "https://example.com/images/fitness-tracker.jpg",
+        "price": 69.99,
+        "stock": 18
+      }
+    ]
+}
+     
+  
