@@ -36,3 +36,32 @@ fetch("http://localhost:3000/products")
       });
     });
   });
+  // Get the reference to the form and attach an event listener for form submit
+  const form = document.querySelector('#productForm');
+  form.addEventListener('submit', handleSubmit);
+  // Define the function that will be called when the form is submitted
+  function handleSubmit(e) {
+    e.preventDefault();
+    let productObj = {
+      name: e.target.name.value,
+      image: e.target.image_url.value,
+      description: e.target.description.value,
+      price: e.target.price.value // Fixed typo here, should be price
+    }
+
+    console.log(productObj)
+    addProduct(productObj);
+  }
+  // Define the function that will add a new product to the server
+  function addProduct(productObj) {
+    fetch('http://localhost:3000/products', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(productObj)
+    })
+    .then(res => res.json())
+    .then(product => console.log(product))
+    .catch(err => console.error(err)); // Add error handling
+  }
