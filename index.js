@@ -13,8 +13,10 @@ fetch("http://localhost:3000/products")
     card.classList.add('card');
     card.innerHTML = `
       <img src="${products.image}" alt="Avatar" style="width:50%" style="height:50%">
-      <div class="container">
-        <h4><b>${products.name}</b></h4> 
+      <div class="container"  >
+        <h3><b>${products.name}</b></h3>
+        <h3>${products.description}</h3>
+        <h3>${products.price}</h3>
         
       </div>
     `;
