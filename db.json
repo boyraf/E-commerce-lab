@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Wireless Earbuds",
-      "description": "Experience true wireless freedom with these earbuds. Enjoy clear and detailed sound with deep bass and superior noise isolation.",
-      "image": "https://images.unsplash.com/photo-1606221793073-1e3b79689777?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d2lyZWxlc3MlMjBlYXJidWRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "price": 49.99
-    },
-    {
-      "id": 2,
-      "name": "Smart Watch",
-      "description": "Stay connected and organized with this smart watch. Monitor your fitness, receive notifications, and control your music all from your wrist.",
-      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnQlMjB3YXRjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "price": 149.99
-    },
-    {
       "id": 3,
       "name": "Bluetooth Speaker",
       "description": "Enjoy high-quality sound anywhere with this portable speaker. Connect wirelessly to your phone or tablet and listen to your favorite music on the go.",
@@ -27,13 +13,6 @@
       "description": "Never run out of battery again with this power bank. Charge your phone, tablet, or other devices on the go and stay connected all day long.",
       "image": "https://images.unsplash.com/photo-1586253634019-c77872f966f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cG93ZXJiYW5rfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "price": 29.99
-    },
-    {
-      "id": 5,
-      "name": "Wireless Charger",
-      "description": "Charge your phone without the hassle of cords with this wireless charger. Simply place your phone on the pad and enjoy fast and convenient charging.",
-      "image": "https://example.com/images/wireless-charger.jpg",
-      "price": 19.99
     },
     {
       "id": 6,
@@ -62,20 +41,6 @@
       "description": "ssff",
       "price": "12.99",
       "id": 9
-    },
-    {
-      "name": "iPhone X",
-      "image": "https://images.unsplash.com/photo-1515054562254-30a1b0ebe227?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-      "description": "hhh",
-      "price": "100.99",
-      "id": 10
-    },
-    {
-      "name": "Galaxy Z Fold 4",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvp8kxotKXosxWdxVL6Y4wbFbdyUlWu5f5g&usqp=CAU",
-      "description": "Newest Samsung fold phone in the market.",
-      "price": "854.99",
-      "id": 11
     },
     {
       "name": "fold 4",

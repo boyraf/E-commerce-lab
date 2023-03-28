@@ -30,6 +30,7 @@ fetch("http://localhost:3000/products")
       
       deleteButton.addEventListener('click',() =>{
         card.remove()
+        console.log(product.id)
         deleteProduct(product.id)
       });
       
@@ -40,7 +41,7 @@ fetch("http://localhost:3000/products")
     });
   });
   function deleteProduct(id){
-    fetch('http://localhost:3000/products\${id}',{
+    fetch(`http://localhost:3000/products/${id}`,{
       method:'DELETE',
       headers: {
         'Content-Type':'application/json'
@@ -49,7 +50,7 @@ fetch("http://localhost:3000/products")
     .then(res => res.json)
     .then(product =>console.log(product))
   }
-  console.log('Delete clicked for product', product.id);
+  
 
 // Get the reference to the form and attach an event listener for form submit
 const form = document.querySelector('#productForm');
