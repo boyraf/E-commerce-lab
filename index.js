@@ -40,6 +40,7 @@ fetch("http://localhost:3000/products")
       });
     });
   });
+  
   function deleteProduct(id){
     fetch(`http://localhost:3000/products/${id}`,{
       method:'DELETE',
