@@ -78,13 +78,16 @@ textarea:focus {
 .details {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 20px;
+  grid-gap: 2px;
 }
 
 .card {
   background-color: #333;
   color: #fff;
-  padding: 20px;
+  padding: 5px;
   text-align: center;
   border-radius: 30px;
 }
+
+
+
