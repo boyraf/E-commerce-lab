@@ -15,5 +15,11 @@
 
 #*The UI should be well-styled and the group members should commit their changes regularly (commits should not be <10) 
 # for our lab we are making a web app for products.
+## The product themselves are electronic products such as:
+       earbuds
+       headphones
+       earphones
+       phones
+       etc.
 
  
